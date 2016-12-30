@@ -1,5 +1,6 @@
 author: chris willette
-email: c.willette@wsu.edu
+
+email: christopher.willette@gmail.com
 
 This project creates a superquadric ellipsoid with a texture image. The bulge factors of the quadric can be modified. In order to run the program, the user needs to place all files in the same directory and open quadric.html in an internet browser.
 
